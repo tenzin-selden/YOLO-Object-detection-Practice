@@ -1,4 +1,4 @@
-YOLO Object Detection Practice
+##YOLO Object Detection Practice
 
  ## About the Project
 This is a beginner-level project exploring object detection using YOLO and the Ultralytics framework.
